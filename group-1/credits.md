@@ -1,7 +1,7 @@
 ---
 description: >-
-  Thank you to all who support the Ra93Core Project Especially those named
-  below.
+  Thank you for choosing to financially support the development of all our
+  projects here at R0adRa93 Productions.
 ---
 
 # Financial Contributors

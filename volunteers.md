@@ -1,3 +1,10 @@
+---
+description: >-
+  Thank you all for putting your time into building the Ra93Core Framework and
+  helping to turn this into one of the best frameworks offered on the FiveM
+  System!
+---
+
 # Volunteers
 
 ### Management Team
