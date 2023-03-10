@@ -11,13 +11,3 @@ description: >-
 * Jason Jordan
 * Donna Franchetti
 
-### Volunteer Contributors
-
-* Malaka Farvo
-* Ghost
-* Kaneit
-* Hectario
-* Pascal
-* Aman Bagla
-* TheFirst501
-

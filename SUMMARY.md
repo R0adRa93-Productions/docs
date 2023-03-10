@@ -4,7 +4,7 @@
 
 ## Credits
 
-* [Financial Contributors](credits/financial-contributors.md)
+* [Financial Contributors](group-1/credits.md)
 
 ***
 
