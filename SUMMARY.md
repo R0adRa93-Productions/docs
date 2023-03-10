@@ -2,10 +2,10 @@
 
 * [👋 docs](README.md)
 
-## Group 1
+## Credits
 
-* [Credits](group-1/credits.md)
+* [Financial Contributors](credits/financial-contributors.md)
 
 ***
 
-* [Credits](credits.md)
+* [Volunteers](volunteers.md)
